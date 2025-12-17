@@ -2,7 +2,7 @@
 
 ### A DevOps Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haichteque&label=Profile views&color=0e75b6&style=flat" alt="haichteque" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
