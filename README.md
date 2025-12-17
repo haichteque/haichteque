@@ -1,6 +1,6 @@
 # Hi 👋, I'm haichteque
 
-### A DevOps Engineer
+I'm a Software Engineering student at FAST Islamabad who builds code, and writes scripts. I'm fluent in C++ and Python, and I am currently diving into mobile development alongside DevOps.
 
 
 
