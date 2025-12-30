@@ -1,6 +1,6 @@
 # Hi 👋, I'm haichteque
 
-I'm a Software Engineering student builds code, and writes scripts. I'm fluent in C++ and Python, and I am currently diving into mobile development alongside DevOps.
+I'm a Software Engineering student who builds code, and writes scripts. I'm fluent in C++ and Python, and I am currently diving into mobile development alongside DevOps.
 
 
 
