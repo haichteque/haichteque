@@ -80,7 +80,7 @@
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[Prayer Reminder](https://github.com/haichteque/prayer-reminder)** | A mobile application that reminds users before prayer times. | `TypeScript` |
-| **[Don't Show Me](https://github.com/haichteque/dont-show-me)** | A content-filtering project built downstream of nsfw-filter, with additional filtering capabilities. | `TypeScript` |
+| **[Don't Show Me](https://github.com/haichteque/dont-show-me)** | A content-filtering project built downstream of nsfw-filter, with additional filtering capabilities. | `TypeScript` `TransformersJS` |
 | **[Qlifts](https://github.com/haichteque/Qlifts)** | A lightweight, local-first workout tracker inspired by StrongLifts, built with Python and Kivy. | `React` `JavaScript` |
 | **[Student Management System QA](https://github.com/haichteque/student-management-system-QA)** | A student management system project focused on software quality assurance and testing. | `Software Testing` |
 | **[Restaurant Management System](https://github.com/haichteque/Restaurant-Management-System-DSA)** | A restaurant management system developed with data structures and algorithms. | `C++` `DSA` |
