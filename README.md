@@ -88,47 +88,6 @@
 
 <br>
 
-<!-- ═══════════════════════════════  EXPERIENCE  ═══════════════════════════ -->
-
-## 💼 Experience
-
-**DevOps Intern — INARA Technologies**
-
-- Worked with CI/CD pipelines and deployment automation.
-- Handled engineering tasks involving Docker and Linux infrastructure.
-- Worked with cloud environments and application deployment workflows.
-
-<br>
-
-<!-- ═══════════════════════════════  STATS  ════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=haichteque&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"
-  alt="GitHub stats"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=haichteque&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
-  alt="Top languages"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=haichteque&hide_border=true&theme=tokyonight"
-  alt="GitHub streak"
-/>
-
-</div>
-
-<br>
-
 <!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
 
 <div align="center">
